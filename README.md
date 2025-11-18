@@ -20,6 +20,6 @@ This app lets you create, edit, save, load, and delete notes with an intuitive U
 
 ## 📸 UI Preview
 
-*(Add your screenshot here)*  
-Example:
+<img width="896" height="752" alt="tkproject" src="https://github.com/user-attachments/assets/143fea5d-a990-4181-a3ea-ed5408c45d66" />
+
 
